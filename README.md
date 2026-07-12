@@ -22,10 +22,6 @@
 - **撤销/重做** — 完整的历史记录支持
 - **响应式布局** — 适配桌面端与移动端
 
-## 🖼️ 截图
-
-![TorchBlox 界面](https://raw.githubusercontent.com/xz6663/torchblox/main/assets/screenshot.png)
-
 ## 🚀 快速开始
 
 ```bash
@@ -48,8 +44,7 @@ torchblox/
 │   ├── ai.js              # DeepSeek API 集成
 │   ├── editor.js          # 画布交互引擎
 │   └── app.js             # 主逻辑控制
-├── assets/
-│   └── screenshot.png     # 截图
+├── assets/                # 静态资源（含截图）
 ├── _shared/
 │   └── fonts/             # 字体文件
 └── test/                  # 测试文件
