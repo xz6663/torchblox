@@ -1,5 +1,8 @@
 # TorchBlox 🧩
 
+> **Trae 创造力大赛参赛作品**  
+> 📝 [参赛帖子：https://forum.trae.cn/t/topic/34452](https://forum.trae.cn/t/topic/34452)
+
 可视化 PyTorch 模型设计器 — 像搭积木一样构建神经网络。
 
 ## 🌐 在线体验
@@ -18,6 +21,10 @@
 - **模板一键加载** — 内置经典网络模板，也可保存自己的模板
 - **撤销/重做** — 完整的历史记录支持
 - **响应式布局** — 适配桌面端与移动端
+
+## 🖼️ 截图
+
+![TorchBlox 界面](https://raw.githubusercontent.com/xz6663/torchblox/main/assets/screenshot.png)
 
 ## 🚀 快速开始
 
@@ -41,15 +48,12 @@ torchblox/
 │   ├── ai.js              # DeepSeek API 集成
 │   ├── editor.js          # 画布交互引擎
 │   └── app.js             # 主逻辑控制
+├── assets/
+│   └── screenshot.png     # 截图
 ├── _shared/
 │   └── fonts/             # 字体文件
-├── assets/                # 静态资源
 └── test/                  # 测试文件
 ```
-
-## 🖼️ 截图
-
-（待补充）
 
 ## 🛠️ 技术栈
 
